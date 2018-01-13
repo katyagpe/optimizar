@@ -1,0 +1,78 @@
+id,name,default_code,categ_id,list_price,standard_price,type
+1,Te Dharamsala,producto1,3,18,18,product
+2,Cerveza tibetana Barley,producto2,3,19,19,product
+3,Sirope de regaliz,producto3,4,10,10,product
+4,Especias Cajun del chef Anton,producto4,4,22,22,product
+5,Mezcla Gumbo del chef Anton,producto5,4,21.35,21.35,product
+6,Mermelada de grosellas de la abuela,producto6,4,25,25,product
+7,Peras secas organicas del tio Bob,producto7,5,30,30,product
+8,Salsa de arandanos Northwoods,producto8,4,40,40,product
+9,Buey Mishi Kobe,producto9,6,97,97,product
+10,Pez espada,producto10,7,31,31,product
+11,Queso Cabrales,producto11,8,21,21,product
+12,Queso Manchego La Pastora,producto12,8,38,38,product
+13,Algas Konbu,producto13,7,6,6,product
+14,Cuajada de judias,producto14,5,23.25,23.25,product
+15,Salsa de soja baja en sodio,producto15,4,15.5,15.5,product
+16,Postre de merengue Pavlova,producto16,9,17.45,17.45,product
+17,Cordero Alice Springs,producto17,6,39,39,product
+18,Langostinos tigre Carnarvon,producto18,7,62.5,62.5,product
+19,Pastas de te de chocolate,producto19,9,9.2,9.2,product
+20,Mermelada de Sir Rodneys,producto20,9,81,81,product
+21,Bollos de Sir Rodneys,producto21,9,10,10,product
+22,Pan de centeno crujiente estilo Gustafs,producto22,10,21,21,product
+23,Pan fino,producto23,10,9,9,product
+24,Refresco Guarana Fantastica,producto24,3,4.5,4.5,product
+25,Crema de chocolate y nueces NuNuCa,producto25,9,14,14,product
+26,Ositos de goma Gumbar,producto26,9,31.23,31.23,product
+27,Chocolate Schoggi,producto27,9,43.9,43.9,product
+28,Col fermentada Rossle,producto28,5,45.6,45.6,product
+29,Salchicha Thuringer,producto29,6,123.79,123.79,product
+30,Arenque blanco del noroeste,producto30,7,25.89,25.89,product
+31,Queso gorgonzola Telino,producto31,8,12.5,12.5,product
+32,Queso Mascarpone Fabioli,producto32,8,32,32,product
+33,Queso de cabra,producto33,8,2.5,2.5,product
+34,Cerveza Sasquatch,producto34,3,14,14,product
+35,Cerveza negra Steeleye,producto35,3,18,18,product
+36,Escabeche de arenque,producto36,7,19,19,product
+37,Salmon ahumado Gravad,producto37,7,26,26,product
+38,Vino Cote de Blaye,producto38,3,263.5,263.5,product
+39,Licor verde Chartreuse,producto39,3,18,18,product
+40,Carne de cangrejo de Boston,producto40,7,18.4,18.4,product
+41,Crema de almejas estilo Nueva Inglaterra,producto41,7,9.65,9.65,product
+42,Tallarines de Singapur,producto42,10,14,14,product
+43,Cafe de Malasia,producto43,3,46,46,product
+44,Azucar negra Malacca,producto44,4,19.45,19.45,product
+45,Arenque ahumado,producto45,7,9.5,9.5,product
+46,Arenque salado,producto46,7,12,12,product
+47,Galletas Zaanse,producto47,9,9.5,9.5,product
+48,Chocolate holandes,producto48,9,12.75,12.75,product
+49,Regaliz,producto49,9,20,20,product
+50,Chocolate blanco,producto50,9,16.25,16.25,product
+51,Manzanas secas Manjimup,producto51,5,53,53,product
+52,Cereales para Filo,producto52,10,7,7,product
+53,Empanada de carne,producto53,6,32.8,32.8,product
+54,Empanada de cerdo,producto54,6,7.45,7.45,product
+55,Pate chino,producto55,6,24,24,product
+56,Gnocchi de la abuela Alicia,producto56,10,38,38,product
+57,Raviolis Angelo,producto57,10,19.5,19.5,product
+58,Caracoles de Borgonia,producto58,7,13.25,13.25,product
+59,Raclet de queso Courdavault,producto59,8,55,55,product
+60,Camembert Pierrot,producto60,8,34,34,product
+61,Sirope de arce,producto61,4,28.5,28.5,product
+62,Tarta de azucar,producto62,9,49.3,49.3,product
+63,Sandwich de vegetales,producto63,4,43.9,43.9,product
+64,Bollos de pan de Wimmer,producto64,10,33.25,33.25,product
+65,Salsa de pimiento picante de Luisiana,producto65,4,21.05,21.05,product
+66,Especias picantes de Luisiana,producto66,4,17,17,product
+67,Cerveza Laughing Lumberjack,producto67,3,14,14,product
+68,Barras de pan de Escocia,producto68,9,12.5,12.5,product
+69,Queso Gudbrandsdals,producto69,8,36,36,product
+70,Cerveza Outback,producto70,3,15,15,product
+71,Crema de queso Flotemys,producto71,8,21.5,21.5,product
+72,Queso Mozzarella Giovanni,producto72,8,34.8,34.8,product
+73,Caviar rojo,producto73,7,15,15,product
+74,Queso de soja Longlife,producto74,5,10,10,product
+75,Cerveza Klosterbier Rhonbrau,producto75,3,7.75,7.75,product
+76,Licor Cloudberry,producto76,3,18,18,product
+77,Salsa verde original Frankfurter,producto77,4,13,13,product
